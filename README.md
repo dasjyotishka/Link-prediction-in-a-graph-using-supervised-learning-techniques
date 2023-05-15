@@ -1,2 +1,2 @@
 # MLNS_Link_Prediction
-Link Prediction based on graph network using Ensemble methods
+This is a project on predicting links between two nodes in a graph network using classical and ensemble supervised learning methods
